@@ -1,0 +1,4 @@
+This is level 4
+this is the line counter
+we have to count how many lines of text 
+are there in this file
