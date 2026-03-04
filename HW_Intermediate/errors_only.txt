@@ -1,0 +1,2 @@
+ERROR: Database Fail
+ERROR: WiFi down
