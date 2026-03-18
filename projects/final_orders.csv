@@ -1,0 +1,6 @@
+order_id,customer,timestamp,product,quantity,price,status,total
+1001,Alice,2026-01-01T10:00:00+05:30,Laptop,1,70000.0,completed,70000.0
+1002,Bob,2026-01-01T10:05:00+05:30,Mouse,2,500.0,completed,1000.0
+1003,Alice,2026-01-01T10:07:00+05:30,Keyboard,1,2000.0,completed,2000.0
+1004,Charlie,2026-01-01T11:00:00+05:30,Monitor,2,12000.0,completed,24000.0
+1008,Bob,2026-01-01T12:30:00+05:30,Keyboard,2,2000.0,completed,4000.0
