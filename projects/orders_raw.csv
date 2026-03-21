@@ -1,0 +1,10 @@
+order_id,customer,timestamp,product,quantity,price,status
+1001,Alice,2026-01-01T10:00:00,Laptop,1,70000,completed
+1002,Bob,2026-01-01T10:05:00,Mouse,2,500,completed
+1003,Alice,2026-01-01T10:07:00,Keyboard,1,2000,completed
+1004,Charlie,2026-01-01T11:00:00,Monitor,2,12000,completed
+1005,David,invalid_timestamp,Laptop,1,70000,completed
+1006,Eva,2026-01-01T11:30:00,Mouse,invalid_qty,500,completed
+1007,Alice,2026-01-01T12:00:00,Mouse,1,500,cancelled
+1008,Bob,2026-01-01T12:30:00,Keyboard,2,2000,completed
+1002,Bob,2026-01-01T10:05:00,Mouse,2,500,completed
